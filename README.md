@@ -14,7 +14,7 @@ Front End Assessment
 2. Run following command to install node modules in the root directory of Project.
 <br>```npm install```
 3. Run following in terminal to start the server on localhost:3000
-<br>```node run start```
+<br>```npm run start```
 
 ## Show Case
 1. Desktop SS
