@@ -16,13 +16,13 @@ Front End Assessment
 3. Run following in terminal to start the server on localhost:3000
 <br>```node run start```
 
+## Show Case
+1. Desktop SS
+<br><br>![alt txt](./public/Desktop.png)<br>
+2. Desktop-checkout SS
+<br><br>![alt txt](./public/Desktop-checkout.png)<br>
 
-## How to Start
-### `npm install`
-### `npm run start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Phone SS
+<br><br>![alt txt](./public/Phone.png)<br>
+4. Phone-checkout SS
+<br><br>![alt txt](./public/Phone-checkout.png)<br>
